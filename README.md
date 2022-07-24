@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello everybody My name is Uri Koren
+===============================
 
-<!--
-**UriKoren/UriKoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer
+--------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Israel
+* ✉️  You can contact me at [korenuri95@gmail.com](mailto:korenuri95@gmail.com)
+* ⚡  I just finished my computer science degree and am currently working on several personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Skills
+
+- React JS
+- Django Python
+- Html
+- CSS
+- PHP
+- C++
+- Java
+- SQL
+
